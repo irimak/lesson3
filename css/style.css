@@ -1,32 +1,32 @@
 @import "null.css";
 
 .name {
-  color: red;
+  color: rgb(255, 0, 0);
 }
 
 .info-name {
-  color: green;
+  color: rgb(0, 128, 0);
 }
 
 .text {
-  color: grey;
+  color: rgb(128, 128, 128);
 }
 
 span {
-  color: blue;
+  color: rgb(0, 0, 255);
 }
 
 .defenition span {
-  color: purple;
+  color: rgb(128, 0, 128);
 }
 
 .paragraph.main-info {
-  color: brown;
+  color: rgb(165, 42, 42);
 }
 
 .paragraph,
 .item {
-  color: black;
+  color: rgb(0, 0, 0);
 }
 
 #punkt {

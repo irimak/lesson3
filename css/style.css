@@ -1,4 +1,4 @@
-@import null.css .name {
+@import "null.css" .name {
   color: red;
 }
 

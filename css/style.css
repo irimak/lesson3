@@ -1,0 +1,27 @@
+.name {
+  color: red;
+}
+
+.info-name {
+  color: green;
+}
+
+.text {
+  color: grey;
+}
+
+.item {
+  color: black;
+}
+
+span {
+  color: blue;
+}
+
+.defenition span {
+  color: purple;
+}
+
+.main-info {
+  color: brown;
+}
